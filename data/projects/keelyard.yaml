@@ -1,0 +1,4 @@
+name: keelyard
+repo: https://github.com/akobirjontulqinovfuture/keelyard
+tagline: Proof gate, undo and output trimming for OpenCode, Claude Code and Codex
+description: Local Python CLI and MCP server. Blocks the agent from finishing until a passing test run after its last edit is recorded, snapshots every edit so any step can be rewound, and trims noisy command output. `keelyard init` wires OpenCode (~/.config/opencode/) as well as Claude Code and Codex.
